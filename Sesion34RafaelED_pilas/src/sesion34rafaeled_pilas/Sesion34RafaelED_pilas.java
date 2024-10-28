@@ -27,6 +27,7 @@ public class Sesion34RafaelED_pilas {
         pilaRafael.push(10);
 
         JOptionPane.showMessageDialog(null, "Datos de pila ordenada es:; \n" + pilaRafael);
+        JOptionPane.showMessageDialog(null, "Autor: Mauricio Rafael Garcia");
     }
 
 }
